@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "StrangerThings4",
+			"path": "../../blah/StrangerThings4"
+		},
+		{
+			"name": "my-project",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
